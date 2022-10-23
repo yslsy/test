@@ -1,2 +1,23 @@
-令新增⼀筆資料到 member 資料表中
+要求三
+（一）
 ![image](https://github.com/yslsy/test/blob/main/week-5/image/1.png)
+（二）
+![image](https://github.com/yslsy/test/blob/main/week-5/image/２.png)
+（三）
+![image](https://github.com/yslsy/test/blob/main/week-5/image/３.png)
+（四）
+![image](https://github.com/yslsy/test/blob/main/week-5/image/４.png)
+（五）
+![image](https://github.com/yslsy/test/blob/main/week-5/image/５.png)
+（六）
+![image](https://github.com/yslsy/test/blob/main/week-5/image/６.png)
+（七）
+![image](https://github.com/yslsy/test/blob/main/week-5/image/7.png)
+
+要求四
+（一）
+![image](https://github.com/yslsy/test/blob/main/week-5/image/8.png)
+（二）
+![image](https://github.com/yslsy/test/blob/main/week-5/image/9.png)
+（三）
+![image](https://github.com/yslsy/test/blob/main/week-5/image/10.png)
